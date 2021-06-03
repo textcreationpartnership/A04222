@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of such English bookes, as lately haue bene, and now are in printing for publication From the ninth day of October, 1618. vntill Easter terme, next ensuing. And from this forme of beginning (though not in such perfect manner as heereafter may be performed) to be continued for euery halfe yeare.</title>
+            <author>Jaggard, William, 1569-1623.</author>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04222</idno><idno type="EEBO-CITATION">99854775</idno>
+  <idno type="VID">20219</idno>
+  <idno type="EEBO-PROQUEST">2240938153</idno>
+  <idno type="STC">STC 14341</idno>
+  <idno type="STC">ESTC S119568</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854775e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20219)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1209:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of such English bookes, as lately haue bene, and now are in printing for publication From the ninth day of October, 1618. vntill Easter terme, next ensuing. And from this forme of beginning (though not in such perfect manner as heereafter may be performed) to be continued for euery halfe yeare.</title>
+                  <author>Jaggard, William, 1569-1623.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Iaggard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1618.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Early printed books --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20219:1"/>
+            <pb facs="tcp:20219:1"/>
+            <p>A CATALOGVE of such English Bookes, as lately haue bene, and now are in <hi>Printing for Publi<g ref="char:EOLhyphen"/>cation. From the ninth day of October,</hi> 1618. vntill Easter Terme, next <hi>ensuing.</hi>
+            </p>
+            <p>And from this forme of <hi>be<g ref="char:EOLhyphen"/>ginning (though not in such perfect</hi> manner as heereafter may be <hi>performed) to be continued</hi> for euery halfe yeare.</p>
+            <p>London printed by W. Iaggard, 1618.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue_of_books">
+            <pb facs="tcp:20219:2"/>
+            <div type="subject">
+               <head>Diuinity.</head>
+               <list>
+                  <head>THOMAS MAN.</head>
+                  <item>
+                     <seg rend="decorInit">A</seg>N Amulet, or preseruatiue against sicknesse and death, in 12. by <hi>A. M.</hi>
+                  </item>
+                  <item>
+                     <hi>Forbels</hi> Letter in 16. how a man may discerne the testimony of Gods spirit from his owne, in witnessing his Adoption.</item>
+                  <item>
+                     <hi>Beza</hi> of predestination, in 12.</item>
+                  <item>Way to true peace and rest in 4. by <hi>Robert Brace.</hi>
+                  </item>
+                  <item>
+                     <hi>Cartwrights</hi> Catechisme, in 4. or a treatise of Christian religió.</item>
+                  <item>
+                     <hi>Wheatley</hi> of Regeneration, in 4.</item>
+                  <item>Gods Husbandry, the first part; shewing the difference be<g ref="char:EOLhyphen"/>twixt the Hypocrite and the true-hearted Christian, by <hi>Wil<g ref="char:EOLhyphen"/>liam Wheatley,</hi> preacher of the word at <hi>Banbury</hi> in <hi>Oxford<g ref="char:EOLhyphen"/>shire.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuels</hi> Funerall, or a Sermon at the Funerall of Sir <hi>Anthony Cope</hi> Knight and Baronet, preached at <hi>Banbury,</hi> in 4.</item>
+                  <item>Three Sermons, shewing what shold be in a sincere Preacher, by <hi>Walter Wilshman,</hi> in 8.</item>
+                  <item>The Lauar of the heart, by <hi>Gabriell Price.</hi>
+                  </item>
+                  <item>A Sermon preached at Paules Crosse, in 8.</item>
+                  <item>M. <hi>Cleuers</hi> explanation on the whole Booke of the Prouerbs.</item>
+                  <item>The practise of Christianity, or an Epitomy of M. <hi>Rogers</hi> seuen Treatises, set forth by <hi>Stephen Eggerton,</hi> in 12.</item>
+                  <item>The summe of Religion, containing thirteen steppes: Twelue whereof a man may attaine, yet if hee misse the thirteenth, he may misse heauen gates, in 8.</item>
+               </list>
+               <list>
+                  <head>MATHEW LOWNES.</head>
+                  <item>TWelue Sermons preached by <hi>Thomas Bastard,</hi> M. of Arts, and sometimes Fellow of new Colledge in <hi>Oxford.</hi>
+                  </item>
+                  <item>Of the Lawes of Ecclesiasticall policy, eight books, by <hi>Richard Hooker.</hi>
+                  </item>
+                  <item>The English Concord, in Answer to <hi>Becans</hi> English Iarre, by <hi>Richard Harris,</hi> Doctor in Diuinity.</item>
+                  <item>
+                     <hi>Trisagium,</hi> or the three holy Offices of Christ, by Doct. <hi>Fourme.</hi>
+                  </item>
+               </list>
+               <list>
+                  <pb facs="tcp:20219:2"/>
+                  <head>WILLIAM ASPLEY.</head>
+                  <item>An Exposition of the Dominicall and Festiuall Epistles and Gospels vsed in our English Liturgie throughout the whol yeare, with an exposition on the propper Psalmes, by <hi>Iohn Boys</hi> Doctor in diuinity, for <hi>William Aspley.</hi> in 4.</item>
+                  <item>
+                     <hi>Miscelanea,</hi> prayers, meditations, memoratiues, by <hi>Elizabeth Grimston, ibid.</hi>
+                  </item>
+                  <item>Fiue sermons by Doct. <hi>Fenton,</hi> vpon Galat. 6, 7. Cant. 8, 6. Iob 6, 10. Gen. 15, 15. Heb. 6, 16. in 12. <hi>ibid</hi>
+                  </item>
+                  <item>
+                     <hi>Barwicke</hi> Bridge, or England and Scotland coupled, 3. sermons by Doctor <hi>Wilkinson,</hi> Psal. 133, 1. Iob 14, 1. Prou. 4, 3, 4, in 4</item>
+                  <item>A Sermon preached at Paules Crosse the 3. of March, 1610. by <hi>Theophilus Higgons.</hi> in 4. <hi>ibidem</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>HENRY FETHERSTON.</head>
+                  <item>Comfortable sermons vpon the CXXIV. Psalme, by <hi>Dan. Dyke</hi> in 4. for <hi>Henry Fetherston. ibid.</hi>
+                  </item>
+                  <item>
+                     <hi>Dauids</hi> learning, or the way to true Happinesse, in a Commen<g ref="char:EOLhyphen"/>tary on the xxxii. Psalme, by <hi>Thomas Taylor,</hi> in 4. <hi>ibid.</hi>
+                  </item>
+                  <item>Certaine diuine Tractates, with other sermons, by <hi>Richard Hoo<g ref="char:EOLhyphen"/>ker,</hi> in fol. <hi>ibid.</hi>
+                  </item>
+                  <item>The righteous Mammon, or a sermon preached at the <hi>Spittle</hi> in 8. by <hi>Ios: Hall. ibid</hi>
+                  </item>
+                  <item>Contemplations vpon the principall passages of the holy story, the fourth volume, by <hi>Ios: Hall,</hi> in 8. <hi>ibid</hi>
+                  </item>
+                  <item>A sermon preached at a generall Assize at <hi>Taunton,</hi> by <hi>William Sclator,</hi> in 4. <hi>ibid.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>IOHN BVDGE</head>
+                  <item>Sir <hi>Iohn Haringtons</hi> Epigrams, in 8. foure bookes, printed for <hi>Iohn Budge.</hi>
+                  </item>
+                  <item>Mothers blessing in 12. by M. <hi>Dorothy Leigh. ibid</hi>
+                  </item>
+                  <item>Golden Cabinet, containing the summe of morall Philosophy, 8. out of French by M. <hi>Iuell. ibidem</hi>
+                  </item>
+                  <item>Fiery triall of Gods Saints, that suffered for the witnesse of Ie<g ref="char:EOLhyphen"/>sus, and for the word of God vnder Queene <hi>Mary.</hi> 4. <hi>ibid</hi>
+                  </item>
+                  <item>Staffe of Comfort, 12. by M. <hi>Barnard,</hi> Preacher of the worde at <hi>Batcombe</hi> in Somersetshire. <hi>ibid</hi>
+                  </item>
+                  <item>
+                     <hi>Cooper</hi> byshop of <hi>Galloway</hi> on the 51. Psalme, 8. <hi>ibidem</hi>
+                  </item>
+                  <item>
+                     <hi>Samuell Smith</hi> on the 6. of <hi>Hosea,</hi> 4. <hi>ibid</hi>
+                  </item>
+                  <pb facs="tcp:20219:3"/>
+                  <item> Two sermons preached in Scotland before the King, by Mast. <hi>Cooper</hi> byshop of <hi>Galloway,</hi> 4. Psal. 1 21, 8. Psal. 80, 17. <hi>ibid</hi>
+                  </item>
+                  <item>Defiance to death, by the same author, 12. <hi>ibid.</hi>
+                  </item>
+                  <item>Two Treatises of the heauenly Mansions, and praise of patience 12. by the same author. <hi>ibid</hi>
+                  </item>
+                  <item>Mirrour of mercie, or the Prodigals Conuersion, by the same author, 12. <hi>ibidem</hi>
+                  </item>
+                  <item>An exposition on the 119: Psalme, by the same author, 4. <hi>ibid</hi>
+                  </item>
+                  <item>A Diuine Herball, in fiue sermons, by <hi>Thomas Adams</hi> in 4. <hi>ibid</hi>
+                  </item>
+                  <item>Anatomy of a Christian, by M. <hi>Cooper</hi> bishop of <hi>Galloway,</hi> in 4.</item>
+                  <item>M. <hi>Cooper</hi> on the eight chapter to the Romanes, 4. <hi>ibid</hi>
+                  </item>
+                  <item>3. heauenly Treatises, containing <hi>Iacobs</hi> wrestling with God, Conduit of Comfort, Preparatiue to the Lords Supper: By the same Author, in 8. <hi>ibid</hi>
+                  </item>
+                  <item>
+                     <hi>Hornes</hi> foure sermons of life and death, 8. <hi>ibid</hi>
+                  </item>
+                  <item>
+                     <hi>Horne</hi> on the 101. Psalme, with the parable of the lost son, 8. <hi>ibid</hi>
+                  </item>
+                  <item>His Catechisme, 8. <hi>ibid</hi>
+                  </item>
+                  <item>Theologicall Rules, and mysticall cases and secrets in Diuinity by <hi>Thomas Wilson,</hi> in 8. <hi>ibid</hi>
+                  </item>
+                  <item>Godly mans assurance; by M. <hi>Cole,</hi> 4. <hi>ibid</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>WALTER BVRRE.</head>
+                  <item>CErtaine Sermons vpon diuers Texts of Scripture, by <hi>Ger<g ref="char:EOLhyphen"/>uase Nid,</hi> Doctor of Diuinity, in 8.</item>
+                  <item>The summe of Christian Religion, by <hi>Iohn Sprint,</hi> 8.</item>
+                  <item>Introduction to a deuout life. By <hi>Francis Salis,</hi> byshop of <hi>Ge<g ref="char:EOLhyphen"/>neua,</hi> translated out of French into English.</item>
+                  <item>The force of Faith, or the diuine talke betwixt Christ and the woman of <hi>Canaan,</hi> in 12.</item>
+                  <item>The Card and compasse of mans life, by <hi>Richard Middleton,</hi> Chaplaine to the Prince his Highnesse. <hi>ibidem</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>WILLIAM BARREY.</head>
+                  <item>THe pathway to prayer and piety, by <hi>R. Hill</hi> Doctor in Di<g ref="char:EOLhyphen"/>uinity, in 8.</item>
+                  <item>A workeman that needeth not be ashamed, or the faithfull Ste<g ref="char:EOLhyphen"/>ward of Gods house, by <hi>Charles Richardson,</hi> in 4.</item>
+                  <item>An explication of the sacred Doctrine of Diuinity, in 4.</item>
+                  <pb facs="tcp:20219:3"/>
+                  <item> The resolued Christian, exhorting to resolution, &amp;c. by <hi>Gabriel Powell,</hi> in 8. <hi>ibidem</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>NATHANIEL BVTTER.</head>
+                  <item>
+                     <hi>Byfield</hi> on the Colossians, fol.</item>
+                  <item>On <hi>Peter</hi> the 1. Epistle, the 1. Chapter, in 4. ibidem</item>
+                  <item>D. <hi>Fentons</hi> Treatise, 4. with six Sermons. ibid.</item>
+                  <item>His directions for reading the Scriptures, in 12. ibid.</item>
+                  <item>
+                     <hi>Salkeld</hi> of Angels and Paradice, oct. ibid.</item>
+                  <item>Doctor <hi>Hals Quo vadis</hi> of Trauell, oct. ibid.</item>
+                  <item>Doctor <hi>Hals</hi> Contemplations, fourth volume, oct. ibid</item>
+                  <item>The Righteous Mammon, a sermon, oct. ibid.</item>
+                  <item>Doctor <hi>Sheldons</hi> Suruey of Popish Miracles. ibid</item>
+                  <item>A Guide vnto true blessednesse, by <hi>Samuel Crooke,</hi> oct.</item>
+                  <item>The Truth of Tythes, by <hi>R.G,</hi> in 4.</item>
+                  <item>
+                     <hi>Matthew</hi> the Publican, a sermon by <hi>E. V.</hi> ibidem</item>
+                  <item>
+                     <hi>Moulin</hi> of the calling of Ministers, in 4. ibidem</item>
+                  <item>Foure birds of <hi>Noahs</hi> Arke. ibid.</item>
+               </list>
+               <list>
+                  <head>NICHOLAS BOVRNE.</head>
+                  <item>The Supplications of Saints, written by <hi>Thomas Sorocold,</hi> in 12</item>
+                  <item>Learne to liue, written by <hi>Christ. Sutton,</hi> D. in Diuinity, in 12.</item>
+                  <item>Learne to dye, written by <hi>Christ. Sutton,</hi> D. in Diuinity, in 12.</item>
+                  <item>Meditations on the Sacraments, written by <hi>Christopher Sutton,</hi> Doctor in Diuinity, in 12. ibid.</item>
+                  <item>Threefold Resolution, written by D. <hi>Denison,</hi> in 12. ibid</item>
+                  <item>Preseruatiues against sin, or how to liue and not sin, as doe the wicked, written by <hi>Nathaniell Cole</hi> Batchel. in diuinity. in 4.</item>
+                  <item>A Sermon preached at <hi>Hartford</hi> Sises, written by <hi>Iohn Squire,</hi> Batchel. in Diuinity, in 4. ibid,</item>
+                  <item>A Bride-bush, or a wedding Sermon, written by <hi>W. Wheatley,</hi> printed for <hi>Tho: Man,</hi> and <hi>Nicholas Bourne,</hi> in 4.</item>
+                  <item>
+                     <hi>Attersoll</hi> on the Sacraments, printed by <hi>W. Iaggard,</hi> for <hi>Nicho<g ref="char:EOLhyphen"/>las Bourne,</hi> in 4. His Catechisme, oct.</item>
+               </list>
+               <list>
+                  <head>WILLIAM BLADEN.</head>
+                  <item>Lectures vpon the whole Epistle of S. <hi>Paul</hi> to the Phillippians, deliuered in S. <hi>Peters</hi> Church in Oxford, by <hi>Henry Acray,</hi> Doct. of diuinity, and late Prouost of Queenes Colledge: and now published for the vse of Gods Church, by <hi>C. P.</hi> ma<g ref="char:EOLhyphen"/>ster, of Arts, and fellow of the same Colledge, in 4. ibid.</item>
+                  <pb facs="tcp:20219:4"/>
+                  <item> A helpe to true happinesse, or a learned exposition of the main and fundamentall points of Christian Religion. By M. <hi>Paul Bayne,</hi> somtimes preacher of the word in Saint <hi>Andrewes</hi> in Cambridge, in 12. ibid.</item>
+                  <item>The foundation of Christian Religion, comprehended in three godly and learned Treatises, 1. Faith, 2. Hope, 3. Charity, written in French by M. <hi>I. D'Lespine,</hi> preacher of the Word of God in <hi>Angeers,</hi> and newly translated, in oct. ibid.</item>
+                  <item>The difference of hearers, or an exposirion of the Parable of the sower, deliuered in certaine sermons at <hi>Hyton</hi> in Lanca<g ref="char:EOLhyphen"/>shire, in oct. ibidem</item>
+                  <item>The right and prerogatiue of Kings, against Cardinall <hi>Beslar<g ref="char:EOLhyphen"/>mine,</hi> and other Iesuites, written in French by <hi>Iohn Bede,</hi> ad<g ref="char:EOLhyphen"/>uocate in the Court of Parliament of <hi>Paris,</hi> and published by authority: translated by <hi>Robert Sherwood,</hi> in oct. ibid.</item>
+               </list>
+               <list>
+                  <head>SAMVELL MAN.</head>
+                  <item>An exposition vpon the whole 8, 9, 10.11. Chapters of the E<g ref="char:EOLhyphen"/>pistle to the Romanes, in 4. by <hi>Elnathan Parr.</hi>
+                  </item>
+                  <item>The Patterne of wholsome words; or a Collection of such tru<g ref="char:EOLhyphen"/>eths as are of necessity to be beleeued vnto saluation, sepa<g ref="char:EOLhyphen"/>rated out of the bodie of all Theologie, in octa. by <hi>Nicholas Byfield.</hi> ibidem</item>
+                  <item>
+                     <hi>Abba</hi> Father, or plaine directions concerning priuate prayer: also godly admonitions, touching time and the well vsing of it, in 12. by <hi>Elnathan Parr.</hi> ibidem</item>
+                  <item>The practise of the faithful, containing diuers godly praiers &amp; meditations for morning and euening, and other necessarie occasions, in 12. ibidem</item>
+                  <item>The Grounds of Diuinity, plainly discouering the mysteries of Christian Religion, propounded familiarly in Question and Answeres, substantially proued by Scriptures; Expounded faithfully according to the writings of the best Diuines, &amp; euidently applyed by profitable vses, in octa. by <hi>Elnathar Parr.</hi> ibid</item>
+                  <item>
+                     <hi>Dauids</hi> Cost, wherein euery one who is desirous to serue God aright, may see what it must Cost him, in 12. By <hi>Daniell Rogers.</hi> ibid.</item>
+                  <item>The scope of the Scripture, wherein the ignorant are taught
+<pb facs="tcp:20219:4"/>the sauing knowledge of God, and of themselues, in octa. By <hi>Henry Ʋesey.</hi> ibidem</item>
+                  <item>A sacred Septenony, or the seauen last words of our Sauiour Christ vttered vpon the Crosse, with the necessary circum<g ref="char:EOLhyphen"/>stances of the same; expounded in a Commentarie, in 4. By <hi>Alexander Roberts.</hi> ibidem</item>
+                  <item>A Treatise of Witchcrafr in 4. by <hi>Alexander Roberts.</hi> ibid.</item>
+               </list>
+               <list>
+                  <head>EDWARD WEAVER.</head>
+                  <item>A discourse of the state of true happinesse, by <hi>Robert Bolton,</hi> in 4</item>
+                  <item>The Chariot and horsemen of Israel, by <hi>Hen. Langley,</hi> in oct. ib.</item>
+                  <item>
+                     <hi>Dauids</hi> musicke, by <hi>R.B.</hi> and <hi>R.A.</hi> in 4. ibidem</item>
+                  <item>An Alphabeticall Table of hard English words, the fourth edi<g ref="char:EOLhyphen"/>tion, by <hi>R.C.</hi> in oct. ibidem</item>
+                  <item>A Key of Knowledge for the opening of S. <hi>Iohns</hi> mysticall Re<g ref="char:EOLhyphen"/>uelation, by <hi>Rich. Barnard</hi> in 4. ibid</item>
+               </list>
+               <list>
+                  <head>IACOB BLOOME.</head>
+                  <item>Map of mans mortality, by <hi>Iohn Moone,</hi> Minister of the Word of God at <hi>Shearshbid</hi> in <hi>Leicestershire,</hi> in 4.</item>
+                  <item>Two Treatises; the one of Repentance, the other of Christes Temptation, by <hi>Daniel Dyke,</hi> in 4. Ibid</item>
+                  <item>A Forme of Catechising set downe by Questions &amp; Answers, by <hi>Edward Elton,</hi> preacher of the word in the parish of Saint <hi>Mary Magdalens</hi> in <hi>Bermondsey</hi> neere <hi>London,</hi> in octa. Ibid.</item>
+                  <item>The practise of Quietnesse: by <hi>George Web</hi> Minister at <hi>Steeple-Ashton</hi> in Wiltshire, in 12. Ibidem</item>
+                  <item>The diuels Banket, described in six Sermons: by <hi>Tho: Adams,</hi> Minister of Gods word, in 4. Ibidem</item>
+                  <item>Englands sicknesse: by <hi>Thomas Adams,</hi> in 4. Ibidem</item>
+               </list>
+               <list>
+                  <head>IOHN PARKER.</head>
+                  <item>The Christians Iewell or treasure of a good Conscience, in 12. by <hi>William VVorship</hi> Doctor in diuinity.</item>
+                  <item>The Posie of godly prayers, by <hi>Nicholas Themilthorp,</hi> Gent. <hi>a<g ref="char:EOLhyphen"/>pudeundem.</hi>
+                  </item>
+                  <item>Great <hi>Britaines</hi> litle Calender or triple Diary, in remembrance of three dayes, viz, the 24 of March the day of his Maiesties proclamation; the fift of August the day of Gowries conspi<g ref="char:EOLhyphen"/>racy; the fift of Nouember the day of our deliuerance from the Gun-powder treason. Whereunto is annexed, a short
+<pb facs="tcp:20219:5"/>disswasiue from Popery, by <hi>Samuel Garey</hi> Minister of Gods word, <hi>apudeundem.</hi>
+                  </item>
+                  <item>A Commentary vpon the Epistle of S. <hi>Paul</hi> to <hi>Philemon:</hi> wher<g ref="char:EOLhyphen"/>unto is added a fruitfull sermon called the Schoole of Affli<g ref="char:EOLhyphen"/>ction, by <hi>Daniel Dyke</hi> Batchellor of diuinity. <hi>ibidem</hi>
+                  </item>
+                  <item>A Commentary or Exposition on the first Epistle of S. <hi>Paule</hi> to the Thessalonians, written by <hi>VVilliam Sclater,</hi> Doctor of diuinity. <hi>ibidē.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>RALPH ROVNTHWAIT.</head>
+                  <item>A plaine and familiar explanation of the ten Commandements, by Questions and Answeres, by <hi>Francis Bunny.</hi>
+                  </item>
+                  <item>The Christians Garment, a sermon preached in London by M. <hi>Paul Bayne.</hi> ibid</item>
+                  <item>A Treatise shewing howe a godly Christian may support his heart with comfort against all the distresses, which by rea<g ref="char:EOLhyphen"/>son of any affliction or temptation can befal him in this life, by <hi>N. Byfield,</hi> Minister at <hi>Isleworth</hi> in <hi>Middlesex.</hi> ibid</item>
+                  <item>The cure of the feare of death, by the same Author. <hi>ibid.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>ROBERT MYLBOVRNE.</head>
+                  <item>The complaint of a sanctified sinner, answered, Preached by <hi>Edward Elton,</hi> Batchellor in diuinity, and preacher of Gods word at S. <hi>Mary Magdalens Bermondsey</hi> neere London: and now by him published, in 4.</item>
+                  <item>A Commentary vpon the first Chapter of the Epistle of S. <hi>Paul,</hi> written to the Ephesians, by M. <hi>Paul Bayne,</hi> somtime prea<g ref="char:EOLhyphen"/>cher of Gods word at S. <hi>Andrewes</hi> in Cambridge, in 4. <hi>Ibid.</hi>
+                  </item>
+                  <item>Six Euangelical Histories, of water turned into wine, the Tem<g ref="char:EOLhyphen"/>ples purgation; Christ and <hi>Nichodemus, Iohns</hi> last testimony; Christ and the woman of <hi>Samaria,</hi> the Rulers sonnes hea<g ref="char:EOLhyphen"/>ling, written by <hi>Daniel Dyke,</hi> Batchellor in diuinity. <hi>Ibid.</hi>
+                  </item>
+                  <item>Two Treatises, the one a most fruitfull exposition vpon <hi>Phile<g ref="char:EOLhyphen"/>mon:</hi> the other, the Schoole of Affliction, both written by the aforesaid <hi>Daniel Dyke. Ibis</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>IOHN GRISMOND.</head>
+                  <item>The mystery of Mount <hi>Caluery,</hi> by <hi>Anthony Guauara</hi> in 4. the second Edition.</item>
+                  <item>Certaine seuerall sermons preached in S. <hi>Gregories</hi> London, by <hi>Thomas Adams. Ibid.</hi>
+                  </item>
+                  <pb facs="tcp:20219:5"/>
+                  <item> A Christian Dictionary, written by <hi>Thomas VVilson.</hi>
+                  </item>
+                  <item>A Commentary vpon the whole booke of the Epistle of S. <hi>Paul</hi> to the Romanes by way of Dialogue, written by the same Author. <hi>Ibidem</hi>
+                  </item>
+                  <item>A Commentary vpon the whole Booke of Numbers, by <hi>VVil<g ref="char:EOLhyphen"/>liam Attersoll,</hi> Minister of the word of God at <hi>Isfield</hi> in <hi>Sus<g ref="char:EOLhyphen"/>sex. Ibid.</hi>
+                  </item>
+                  <item>The blacke Deuill, containing three Sermons, by <hi>Thomas A<g ref="char:EOLhyphen"/>dams,</hi> in 4. <hi>Ibidem</hi>
+                  </item>
+                  <item>Sir <hi>Francis Hastings</hi> Meditations, in 16. ibid.</item>
+               </list>
+               <list>
+                  <head>NICHOLAS OKES.</head>
+                  <item>
+                     <hi>Dauids</hi> Repentance, vpon the 51. Psal. by <hi>S. Smith,</hi> oct.</item>
+                  <item>
+                     <hi>Dauids</hi> Blessed man, vpon the 1. Psal. by <hi>S. Smith,</hi> oct.</item>
+                  <item>The great Assize, by <hi>S. Smith,</hi> oct. ibid.</item>
+                  <item>The Key of <hi>Dauid,</hi> written by <hi>R. Middleton,</hi> in 12. Ibid.</item>
+                  <item>The sorrowfull soules solace, in 12. Ibid.</item>
+                  <item>The heauenly Progresse, written by <hi>R. Middleton.</hi> Ibid.</item>
+               </list>
+               <list>
+                  <head>WILLIAM IONES.</head>
+                  <item>The Conflict betweene the flesh and the Spirit, or the fourth &amp; last part of the Christian Warefare, written by <hi>I. Downame,</hi> Batchell or in Diuinity.</item>
+                  <item>The Anatomy of mortality, written by <hi>George Strode</hi> vtter Bar<g ref="char:EOLhyphen"/>rester of the middle Temple.</item>
+                  <item>
+                     <hi>De Sabbaticorum Amorum periodis Chronologica àmundi exordio ad nostravs{que} secula &amp; porro digesto. Per Robertum Pontanum Caledonium Britannum: est veniere.</hi> Ibid.</item>
+                  <item>Physicke for body and soule, prescribed by <hi>Salomon,</hi> written by <hi>Pet. Muffet.</hi> oct. ibid</item>
+                  <item>A Secular speech, written in Latine by <hi>Abraham Sc<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ltetus,</hi> con<g ref="char:EOLhyphen"/>taining the florishing state of the protestants Churches (this last hundred yeeres) translated into English, by <hi>W.T.</hi>
+                  </item>
+                  <item>
+                     <hi>Hull</hi> vpon the Lamentations of <hi>Ieremy,</hi> 4. printed by <hi>B. Alsop</hi> The Anatomy of a distressed soule in 12: for Daniel Speede, written by master Robinson</item>
+               </list>
+            </div>
+            <div type="subject">
+               <head>History.</head>
+               <list>
+                  <item>THe Abridgement of the Chronicle of <hi>England</hi> to this pre<g ref="char:EOLhyphen"/>sent yeare, 1618. by <hi>Edward Howes.</hi> Printed for the <hi>Com<g ref="char:EOLhyphen"/>pany of Stationers.</hi>
+                  </item>
+                  <pb facs="tcp:20219:6"/>
+                  <item> The Actions of the Low Countreyes, written by <hi>Rog Williams,</hi> Knight: printed for <hi>Mathew Lownes.</hi>
+                  </item>
+                  <item>The History of the world, by Sir <hi>Walter Rauleigh,</hi> Fol. Printed for <hi>Walter Burre.</hi>
+                  </item>
+                  <item>A relation to a iourney begun, An. 1610. by <hi>Geo: Sandys,</hi> Prin<g ref="char:EOLhyphen"/>ted for <hi>William Barret.</hi>
+                  </item>
+                  <item>An addition to the Arcadian History, by Sir <hi>William Alexan<g ref="char:EOLhyphen"/>der,</hi> Knight, <hi>Ibid.</hi>
+                  </item>
+                  <item>
+                     <hi>Crookes</hi> Anatomy, or a description of the Body of Man, printed by <hi>W. Iaggard.</hi>
+                  </item>
+                  <item>10. Following bookes of the Treasury of Ancient &amp; moderne Times. ibid.</item>
+                  <item>The Rape of <hi>Proserpine,</hi> translated out of <hi>Claudian</hi> in Latine in<g ref="char:EOLhyphen"/>to English verse, by <hi>Conard Diggs,</hi> Gent. Printed for <hi>Edward Blount,</hi> in 4.</item>
+                  <item>
+                     <hi>Epictetus Manual, Cobes Table, Theophrastus Caracters,</hi> translated out of Greeke by <hi>Iohn Healey,</hi> in 12. Ibidem</item>
+                  <item>
+                     <hi>Lucans Pharsalia,</hi> translated into English verse, by Sir <hi>Arthur Gorges,</hi> in Fol. Ibidem</item>
+                  <item>The true exemplary, and remarkeable History of the Earle of <hi>Tyrone,</hi> written by <hi>T.G.</hi> Esquire: printed for <hi>R. Rounthwait.</hi>
+                  </item>
+                  <item>The first 5. books of <hi>Amadis de Gaul,</hi> in Fol. printed by <hi>Nicho<g ref="char:EOLhyphen"/>las Okes.</hi>
+                  </item>
+                  <item>The trauels of <hi>VVilliam Lythgo</hi> into <hi>Europe, Asia,</hi> and <hi>Affrica,</hi> and to <hi>Ierusalem,</hi> in 4. Ibidem</item>
+                  <item>
+                     <hi>Swetnams</hi> schoole of defence. 4. printed by <hi>Nich Okes.</hi> Ibid</item>
+                  <item>The Art of pronounciation: written by <hi>R. Robinson.</hi> Ibidem</item>
+                  <item>
+                     <hi>Homers</hi> workes in English, fol. printed for <hi>Nathaniell Butter.</hi>
+                  </item>
+                  <item>The wonderfull history of <hi>Perkin VVarbecke,</hi> 4. Ibid</item>
+                  <item>Englands way to win wealth, by <hi>T.G.</hi> 4. Ibid</item>
+               </list>
+            </div>
+            <div type="subject">
+               <head>Controuersie.</head>
+               <list>
+                  <item>The way to the true Church, by <hi>Iohn White,</hi> Doctor in Diuini<g ref="char:EOLhyphen"/>ty, printed for <hi>William Barret,</hi> in 4.</item>
+                  <item>defence of the way to the true Church, against the reply of <hi>A.D.</hi> by the same Author, in 4. <hi>ibidem</hi>
+                  </item>
+                  <item>The Orthodox Faith, and way to the Church, explained &amp; iu<g ref="char:EOLhyphen"/>stified by <hi>Frances White,</hi> Doctor in Diuinity, in 4. <hi>ibidem</hi>
+                  </item>
+                  <item>A defence of the innocencie of the three ceremonies of the Church of England, viz: The Surplice, Crosse after baptism,
+<pb facs="tcp:20219:6"/>and kneeling at the receyuing of the Sacrament, by the Re<g ref="char:EOLhyphen"/>uerend Father in God, <hi>Thomas</hi> L. byshop of <hi>Chester. Ibid.</hi>
+                  </item>
+                  <item>The Pseudomartyr, by <hi>Iohn Donne</hi> Doctor of Diuinity, printed for <hi>Walter Burre,</hi> 4.</item>
+                  <item>Brownisine turn'd inside outward, by <hi>Christopher Lawne,</hi> late<g ref="char:EOLhyphen"/>ly returned from that wicked separation, in 4. <hi>Ibidem</hi>
+                  </item>
+                  <item>Worke for a Masse-Priest, printed by <hi>VVilliam Iones.</hi>
+                  </item>
+                  <item>A Treatise of the Church, written against them of the separati<g ref="char:EOLhyphen"/>on, commonly called Brownists, in defence of the Church of England. Written by <hi>Iohn Dayrell. Ibidem</hi>
+                  </item>
+                  <item>Ten Counter-demands against them of the separation, written by <hi>Thomas Drake. Ibidem</hi>
+                  </item>
+                  <item>
+                     <hi>Enchiridion Christian sidei ex patribus Desumptum cont. Bell. per Fran. Dillinghamum,</hi> in 8. <hi>Ibidem</hi>
+                  </item>
+                  <item>A Probleme propounded by <hi>Fran: Dilling: cont: Bellarm. Ibidem</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="subject">
+               <head>Law Bookes.</head>
+               <list>
+                  <item>
+                     <hi>Ash</hi> his Table to Sir <hi>Edward Cookes</hi> Reports, printed by the Company of Stationers, in oct.</item>
+                  <item>The Countrey Iustice, by <hi>Michael Dalton,</hi> in Fol. <hi>Ibidem</hi>
+                  </item>
+                  <item>A Collection of the Statutes by <hi>Ferdinando Poulton,</hi> fol. <hi>Ibidem</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="subject">
+               <head>Bookes of Art and humanity.</head>
+               <list>
+                  <item>
+                     <hi>Opilogia,</hi> or the vse of <hi>Opium,</hi> by <hi>Tho: Bretnor,</hi> printed by <hi>N. Okes Markhams</hi> Master-peece, written by <hi>I. Markham,</hi> in 4. printed by <hi>Nicholas Okes.</hi>
+                  </item>
+                  <item>Wounds cured by Gun shot, by <hi>Ambrose Parae,</hi> translated into English, printed by <hi>William laggard.</hi>
+                  </item>
+                  <item>A Geographicall description of the whole earth, by <hi>Anthony Stafford</hi> printed for <hi>Iohn Parker.</hi>
+                  </item>
+                  <item>The Art of Logicke, plainly taught in the English tongue, ac<g ref="char:EOLhyphen"/>cording to the best approoued Authors, by M. <hi>Blundenile,</hi> printed for <hi>Mathew Lownes.</hi>
+                  </item>
+                  <item>
+                     <hi>Iunna Linguarum quadritingus,</hi> Latine, English, French, and Spa<g ref="char:EOLhyphen"/>nish, <hi>Londi excudebat R.F. Impensis M. Lownes.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="subject">
+               <head>Poetry.</head>
+               <list>
+                  <item>
+                     <hi>Lucans Pharsalia,</hi> by <hi>Arthur Gorges</hi> Knight, printed for <hi>W. Bur</hi>
+                  </item>
+                  <item>Discourse against slattery, by <hi>William Cauendish</hi> Knight, <hi>Ibid.</hi>
+                  </item>
+                  <item>The Trades encrease. <hi>Ibid</hi>
+                  </item>
+                  <item>The Surueigher, by <hi>Aaron Rathborne,</hi> fol. <hi>ibidem</hi>
+                  </item>
+                  <item>An aduice how to plant Tobacco in England, by <hi>W.R.</hi> 4. <hi>ibid</hi>
+                  </item>
+                  <pb facs="tcp:20219:7"/>
+                  <item> The marriages of the Arts, a Comedy acted by the Students of the Church, written by <hi>Barton Holliday:</hi> Master of Arts, prin<g ref="char:EOLhyphen"/>ted for <hi>Iohn Parker.</hi>
+                  </item>
+                  <item>The admirable History of a Magitian, with a discourse of the visible appearance of Spirits and diuels; written in French by <hi>Sebastian Michaelis,</hi> and translated into English by <hi>W.B.</hi> for <hi>William Aspley.</hi> 4.</item>
+                  <item>A Mirrour for Magistraces, or the Eals of vnfortunate English Kings and Princes, since the entering of <hi>Brute</hi> into this Islād, with the life and death of Queen Elizabeth, 4. <hi>ibid</hi>
+                  </item>
+                  <item>The Naturall and morall History of the East and West Indies, intreating of the remarkable things of heauen, of the Ele<g ref="char:EOLhyphen"/>ments, mettals, plants, &amp; beasts proper to that countrey, &amp;c. Written in <hi>Spanish</hi> by <hi>Ioseph Acosta;</hi> and translated into eng<g ref="char:EOLhyphen"/>lish by <hi>E.G.</hi> printed for <hi>Ed. Blunt,</hi> and <hi>W. Aspley,</hi> 4.</item>
+                  <item>The trauels of foure <hi>Englishmen</hi> and a Preacher, into <hi>Affrica, Asia, Troy, Bythinia, Thracia,</hi> the blacke sea, and other farre Countries, by <hi>William Biddalph,</hi> 4. for <hi>William Aspley.</hi>
+                  </item>
+                  <item>Problemes of Beauty, Loue, and all humane affections; written in Italian by <hi>T.B.</hi> translated into english by <hi>S.T.</hi> Gentleman. London printed for <hi>Edward Blunt,</hi> and <hi>William Aspey,</hi> 12. The Diall of Princes, printed by <hi>Bernard Alsop.</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="subject">
+               <list>
+                  <head>SIMON WATERSON.</head>
+                  <item>
+                     <hi>HOptons</hi> Topographicall Glasse.</item>
+                  <item>
+                     <hi>Hoptons</hi> Geodeticall Staffe.</item>
+                  <item>
+                     <hi>Napiers</hi> Logarithmes.</item>
+                  <item>
+                     <hi>Blagraues</hi> Dialling.</item>
+                  <item>
+                     <hi>Oliuers</hi> handling of the plani-sphere. <hi>Ibidem</hi>
+                  </item>
+               </list>
+            </div>
+            <div type="subject">
+               <head>THOMAS MAN.</head>
+               <list>
+                  <head>Geomaticall Translations of Schoole Booke<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <item>
+                     <hi>Corderius</hi> Geomatically translated into English, 8. for <hi>T. Man.</hi>
+                  </item>
+                  <item>
+                     <hi>Tullies Offices,</hi> first booke, by the same Author, 8.</item>
+                  <item>
+                     <hi>Sententia Purilis.</hi> Englished by the same, 8.</item>
+                  <item>
+                     <hi>Purilis Confabulai</hi> Englished, 8.</item>
+                  <item>
+                     <hi>Aesops</hi> Fables Englished Geomatically, 8.</item>
+                  <item>
+                     <hi>Ouids Metamorphosis,</hi> first booke, 4.</item>
+                  <item>Perusing of the parts, in 4. by <hi>Iohn Berusly.</hi>
+                  </item>
+                  <item>A Booke of Copies pertaining to the Grammar Schoole. <hi>Ibid</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:20219:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
